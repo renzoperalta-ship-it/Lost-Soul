@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: a643508654ea1c34997645897d7ab84e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2763366231361225678
+    second: menueffect_0
+  - first:
+      213: 799474390336061521
+    second: menueffect_1
+  - first:
+      213: -8017750801511287898
+    second: menueffect_2
+  - first:
+      213: -5726658261621894747
+    second: menueffect_3
+  - first:
+      213: -5341261572385421183
+    second: menueffect_4
+  - first:
+      213: -5686931240102231615
+    second: menueffect_5
+  - first:
+      213: 6043884273785425021
+    second: menueffect_6
+  - first:
+      213: 1802951736207384389
+    second: menueffect_7
+  - first:
+      213: 1184273805729635579
+    second: menueffect_8
+  - first:
+      213: -5998228087400286873
+    second: menueffect_9
+  - first:
+      213: -8581402749500363611
+    second: menueffect_10
+  - first:
+      213: -5533033811745702718
+    second: menueffect_11
+  - first:
+      213: 5858943677631353346
+    second: menueffect_12
+  - first:
+      213: 2932001829876798630
+    second: menueffect_13
+  - first:
+      213: -42210998924332161
+    second: menueffect_14
+  - first:
+      213: -5049162199523155094
+    second: menueffect_15
+  - first:
+      213: 5157477896310229957
+    second: menueffect_16
+  - first:
+      213: -5831769539924041182
+    second: menueffect_17
+  - first:
+      213: 8994513447590251996
+    second: menueffect_18
+  - first:
+      213: -3123584450780301817
+    second: menueffect_19
+  - first:
+      213: -4484339954099280415
+    second: menueffect_20
+  - first:
+      213: 3994484240313216498
+    second: menueffect_21
+  - first:
+      213: 1840003313239440068
+    second: menueffect_22
+  - first:
+      213: 4625762929928583593
+    second: menueffect_23
+  - first:
+      213: -1633720704200060915
+    second: menueffect_24
+  - first:
+      213: -648091940176689063
+    second: menueffect_25
+  - first:
+      213: -134517845697064187
+    second: menueffect_26
+  - first:
+      213: 8721345339810641489
+    second: menueffect_27
+  - first:
+      213: -3802965931484992228
+    second: menueffect_28
+  - first:
+      213: 4123902872872677037
+    second: menueffect_29
+  - first:
+      213: 8188442177974869340
+    second: menueffect_30
+  - first:
+      213: -4140124664838872926
+    second: menueffect_31
+  - first:
+      213: -7062374211627003806
+    second: menueffect_32
+  - first:
+      213: 7405046661536973935
+    second: menueffect_33
+  - first:
+      213: 4534188200770061113
+    second: menueffect_34
+  - first:
+      213: -7641572457166248176
+    second: menueffect_35
+  - first:
+      213: -7499561984133702290
+    second: menueffect_36
+  - first:
+      213: 6517867826469808969
+    second: menueffect_37
+  - first:
+      213: 2473252237907265545
+    second: menueffect_38
+  - first:
+      213: 2210610378650139619
+    second: menueffect_39
+  - first:
+      213: -2404485815551269722
+    second: menueffect_40
+  - first:
+      213: 2701457788002418525
+    second: menueffect_41
+  - first:
+      213: -4667983011999686376
+    second: menueffect_42
+  - first:
+      213: -6132088969155413056
+    second: menueffect_43
+  - first:
+      213: -2251656383002027126
+    second: menueffect_44
+  - first:
+      213: 8117310483426600664
+    second: menueffect_45
+  - first:
+      213: 1135476248431559109
+    second: menueffect_46
+  - first:
+      213: 1030971139411479922
+    second: menueffect_47
+  - first:
+      213: -2758650183262860023
+    second: menueffect_48
+  - first:
+      213: 7097452733059073410
+    second: menueffect_49
+  - first:
+      213: 7263215743883237573
+    second: menueffect_50
+  - first:
+      213: -2054723364902867787
+    second: menueffect_51
+  - first:
+      213: -2479039086511885739
+    second: menueffect_52
+  - first:
+      213: 344646658035571659
+    second: menueffect_53
+  - first:
+      213: 1072362460801733613
+    second: menueffect_54
+  - first:
+      213: -4110278901489865763
+    second: menueffect_55
+  - first:
+      213: 8584760386521058619
+    second: menueffect_56
+  - first:
+      213: 69748609797598263
+    second: menueffect_57
+  - first:
+      213: 4237975958041152137
+    second: menueffect_58
+  - first:
+      213: -6723847821276300606
+    second: menueffect_59
+  - first:
+      213: 486484755140349325
+    second: menueffect_60
+  - first:
+      213: -623612002143792064
+    second: menueffect_61
+  - first:
+      213: 5659145198230256805
+    second: menueffect_62
+  - first:
+      213: 1621860799269539205
+    second: menueffect_63
+  - first:
+      213: -3345970364546205244
+    second: menueffect_64
+  - first:
+      213: 5806559780949590793
+    second: menueffect_65
+  - first:
+      213: 263233714550638443
+    second: menueffect_66
+  - first:
+      213: -1861029786572993850
+    second: menueffect_67
+  - first:
+      213: 7507525318596183554
+    second: menueffect_68
+  - first:
+      213: -344493311156299834
+    second: menueffect_69
+  - first:
+      213: -3069776858466844101
+    second: menueffect_70
+  - first:
+      213: -3973890688098462810
+    second: menueffect_71
+  - first:
+      213: -7513490627014738175
+    second: menueffect_72
+  - first:
+      213: 2290700140238628267
+    second: menueffect_73
+  - first:
+      213: 6694676473246639097
+    second: menueffect_74
+  - first:
+      213: 1123661169287309760
+    second: menueffect_75
+  - first:
+      213: -177982331537769917
+    second: menueffect_76
+  - first:
+      213: 2386793279688180807
+    second: menueffect_77
+  - first:
+      213: -8801941238157692366
+    second: menueffect_78
+  - first:
+      213: 5357968389628182899
+    second: menueffect_79
+  - first:
+      213: 1327865070797901428
+    second: menueffect_80
+  - first:
+      213: 1422084727088905665
+    second: menueffect_81
+  - first:
+      213: 4229681361202142191
+    second: menueffect_82
+  - first:
+      213: 6066615287199216168
+    second: menueffect_83
+  - first:
+      213: -2848811980531294846
+    second: menueffect_84
+  - first:
+      213: -9172750032465414243
+    second: menueffect_85
+  - first:
+      213: 1542790886265266475
+    second: menueffect_86
+  - first:
+      213: 3055088337711358611
+    second: menueffect_87
+  - first:
+      213: 1259730323971504569
+    second: menueffect_88
+  - first:
+      213: -2282356884829289433
+    second: menueffect_89
+  - first:
+      213: 3498688047218969566
+    second: menueffect_90
+  - first:
+      213: 8567883043821753203
+    second: menueffect_91
+  - first:
+      213: -2925757365443130059
+    second: menueffect_92
+  - first:
+      213: 3046761176343133790
+    second: menueffect_93
+  - first:
+      213: -1211982210504321683
+    second: menueffect_94
+  - first:
+      213: 6408982417050157769
+    second: menueffect_95
+  - first:
+      213: -5345071841060431648
+    second: menueffect_96
+  - first:
+      213: 7279471224402596036
+    second: menueffect_97
+  - first:
+      213: -659796664059916261
+    second: menueffect_98
+  - first:
+      213: -3659704411961452123
+    second: menueffect_99
+  - first:
+      213: 7990978739509254542
+    second: menueffect_100
+  - first:
+      213: 8882410534438139533
+    second: menueffect_101
+  - first:
+      213: 1342762534430523874
+    second: menueffect_102
+  - first:
+      213: -7269236331587836118
+    second: menueffect_103
+  - first:
+      213: 3674454007307577145
+    second: menueffect_104
+  - first:
+      213: 8592803275144430049
+    second: menueffect_105
+  - first:
+      213: -3596527117574552805
+    second: menueffect_106
+  - first:
+      213: -2755383821490585359
+    second: menueffect_107
+  - first:
+      213: -5547261233222124743
+    second: menueffect_108
+  - first:
+      213: -4781676957137519173
+    second: menueffect_109
+  - first:
+      213: 7224657488433567394
+    second: menueffect_110
+  - first:
+      213: 5417632300615154180
+    second: menueffect_111
+  - first:
+      213: 6626827299067477717
+    second: menueffect_112
+  - first:
+      213: 1542840184617376513
+    second: menueffect_113
+  - first:
+      213: 8951736526655523640
+    second: menueffect_114
+  - first:
+      213: 989647111720713895
+    second: menueffect_115
+  - first:
+      213: -1686503554716945615
+    second: menueffect_116
+  - first:
+      213: -6813316121005653614
+    second: menueffect_117
+  - first:
+      213: -9155931100205878586
+    second: menueffect_118
+  - first:
+      213: -2540855743977125257
+    second: menueffect_119
+  - first:
+      213: -6807800063090025294
+    second: menueffect_120
+  - first:
+      213: 8166816003908306114
+    second: menueffect_121
+  - first:
+      213: 6948815299081118099
+    second: menueffect_122
+  - first:
+      213: 8450950660269164343
+    second: menueffect_123
+  - first:
+      213: 1606869645380382050
+    second: menueffect_124
+  - first:
+      213: -9161311500005382958
+    second: menueffect_125
+  - first:
+      213: -2012236776916637136
+    second: menueffect_126
+  - first:
+      213: 718158186572307782
+    second: menueffect_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menueffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1800
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c7763bd0d86a9d0800000000000000
+      internalID: -2763366231361225678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueffect_1
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 1800
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150c003e8bd481b00800000000000000
+      internalID: 799474390336061521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueffect_2
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 1800
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f733083f1590a6ff0800000000000000
+      internalID: -42210998924332161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueffect_3
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1800
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb008a32da039740800000000000000
+      internalID: 5157477896310229957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueffect_4
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 1800
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd471b535ee2dc70800000000000000
+      internalID: 8994513447590251996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueffect_5
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 1800
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e522df129c64c1c0800000000000000
+      internalID: -4484339954099280415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueffect_6
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 0
+        width: 1800
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabd2fb341098910800000000000000
+      internalID: 1840003313239440068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueffect_7
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 0
+        width: 1800
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0054f3ecabd359e0800000000000000
+      internalID: -1633720704200060915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 39ed7c3325379594e8fe5e1885438f98
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":1800.0,"y":1800.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      menueffect_0: -2763366231361225678
+      menueffect_1: 799474390336061521
+      menueffect_2: -42210998924332161
+      menueffect_3: 5157477896310229957
+      menueffect_4: 8994513447590251996
+      menueffect_5: -4484339954099280415
+      menueffect_6: 1840003313239440068
+      menueffect_7: -1633720704200060915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
