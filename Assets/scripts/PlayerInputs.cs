@@ -8,6 +8,7 @@ public class PlayerInputs : MonoBehaviour
     public static event Action<Vector2> OnMove;
     public static event Action OnJump;
     private InputSystem_Actions inputs;
+    public static event Action OnPause;
     #endregion
     private void Awake()
     {
@@ -22,6 +23,7 @@ public class PlayerInputs : MonoBehaviour
         inputs.Player.Move.performed += HandleMove;
         inputs.Player.Move.canceled += HandleMoveCanceled;
         inputs.Player.Jump.performed += HandleJump;
+        inputs.Player.Pause.performed += HandlePause;
     }
 
     private void OnDisable()
@@ -31,6 +33,7 @@ public class PlayerInputs : MonoBehaviour
         inputs.Player.Move.performed -= HandleMove;
         inputs.Player.Move.canceled -= HandleMoveCanceled;
         inputs.Player.Jump.performed -= HandleJump;
+        inputs.Player.Pause.performed -= HandlePause;
     }
 
     private void HandleMove(InputAction.CallbackContext ctx) => OnMove?.Invoke(ctx.ReadValue<Vector2>());
@@ -39,5 +42,10 @@ public class PlayerInputs : MonoBehaviour
     {
 
         OnJump?.Invoke();
+    }
+    private void HandlePause(InputAction.CallbackContext context)
+    {
+        Debug.Log("ESC presionado");
+        OnPause?.Invoke();
     }
 }

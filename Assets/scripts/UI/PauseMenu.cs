@@ -12,12 +12,14 @@ public class PauseMenu : MonoBehaviour
         pausePanel.SetActive(false);
     }
 
-    void Update()
+    private void OnEnable()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            TogglePause();
-        }
+        PlayerInputs.OnPause += TogglePause;
+    }
+
+    private void OnDisable()
+    {
+        PlayerInputs.OnPause -= TogglePause;
     }
 
     public void TogglePause()
@@ -25,11 +27,7 @@ public class PauseMenu : MonoBehaviour
         isPaused = !isPaused;
 
         pausePanel.SetActive(isPaused);
-
-        if (isPaused)
-            Time.timeScale = 0f;
-        else
-            Time.timeScale = 1f;
+        Time.timeScale = isPaused ? 0f : 1f;
     }
 
     public void ResumeGame()
