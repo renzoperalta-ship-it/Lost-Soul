@@ -2,10 +2,12 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float velocidad = 10f;
-    public float fuerzaSalto = 7f;
+    [Header("Configuración de Movimiento")]
+    [SerializeField] private float moveSpeed = 10f;
+    [SerializeField] private float fuerzaSalto = 7f;
 
     private Rigidbody2D rb;
+    private Vector2 moveInput;
     private bool enSuelo;
 
     void Start()
@@ -13,33 +15,37 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    void Update()
+    private void OnEnable()
     {
-        float mover = 0;
+        PlayerInputs.OnMove += HandleMove;
+        PlayerInputs.OnJump += HandleJump;
+    }
 
-        // Izquierda
-        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
-        {
-            mover = -1;
-        }
+    private void OnDisable()
+    {
+        PlayerInputs.OnMove -= HandleMove;
+        PlayerInputs.OnJump -= HandleJump;
+    }
 
-        // Derecha
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
-        {
-            mover = 1;
-        }
+    private void HandleMove(Vector2 input)
+    {
+        moveInput = input;
+    }
 
-        rb.linearVelocity = new Vector2(mover * velocidad, rb.linearVelocity.y);
-
-        // Salto con espacio
-        if (Input.GetKeyDown(KeyCode.Space) && enSuelo)
+    private void HandleJump()
+    {
+        if (enSuelo)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, fuerzaSalto);
         }
     }
 
-  
+    private void FixedUpdate()
+    {
+        rb.linearVelocity = new Vector2(moveInput.x * moveSpeed, rb.linearVelocity.y);
+    }
 
+    #region Detección de Suelo
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
@@ -54,7 +60,8 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             enSuelo = false;
+            Debug.Log(" Aire");
         }
     }
-
+    #endregion
 }
