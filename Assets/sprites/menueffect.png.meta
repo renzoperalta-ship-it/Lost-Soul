@@ -536,10 +536,10 @@ TextureImporter:
       name: menueffect_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 848
         y: 0
-        width: 1800
-        height: 1800
+        width: 958
+        height: 1306
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: menueffect_1
       rect:
         serializedVersion: 2
-        x: 1800
+        x: 2647
         y: 0
-        width: 1800
-        height: 1800
+        width: 958
+        height: 1306
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,10 +580,10 @@ TextureImporter:
       name: menueffect_2
       rect:
         serializedVersion: 2
-        x: 3600
+        x: 4446
         y: 0
-        width: 1800
-        height: 1800
+        width: 958
+        height: 1306
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: menueffect_3
       rect:
         serializedVersion: 2
-        x: 5400
+        x: 6244
         y: 0
-        width: 1800
-        height: 1800
+        width: 958
+        height: 1306
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: menueffect_4
       rect:
         serializedVersion: 2
-        x: 7200
+        x: 8050
         y: 0
-        width: 1800
-        height: 1800
+        width: 958
+        height: 1306
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: menueffect_5
       rect:
         serializedVersion: 2
-        x: 9000
+        x: 9848
         y: 0
-        width: 1800
-        height: 1800
+        width: 958
+        height: 1306
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: menueffect_6
       rect:
         serializedVersion: 2
-        x: 10800
+        x: 11646
         y: 0
-        width: 1800
-        height: 1800
+        width: 958
+        height: 1306
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +690,10 @@ TextureImporter:
       name: menueffect_7
       rect:
         serializedVersion: 2
-        x: 12600
+        x: 13442
         y: 0
-        width: 1800
-        height: 1800
+        width: 958
+        height: 1306
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
