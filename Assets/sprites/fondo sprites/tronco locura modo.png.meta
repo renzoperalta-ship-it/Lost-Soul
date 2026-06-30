@@ -55,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,10 +90,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -170,37 +170,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tronco locura modo_0
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 7
-        width: 72
-        height: 384
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23fc7380ed11de440800000000000000
-      internalID: 4966645609377812274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tronco locura modo_1
       rect:
         serializedVersion: 2
-        x: 188
-        y: 8
-        width: 81
+        x: 63
+        y: 9
+        width: 205
         height: 385
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.47689262, y: 0.49507847}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -219,10 +197,10 @@ TextureImporter:
         serializedVersion: 2
         x: 477
         y: 6
-        width: 79
+        width: 205
         height: 385
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.41681355, y: 0.49261776}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -236,59 +214,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tronco locura modo_3
-      rect:
-        serializedVersion: 2
-        x: 585
-        y: 6
-        width: 85
-        height: 385
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eecea5d80755b1150800000000000000
-      internalID: 5844358883339594990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tronco locura modo_4
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 6
-        width: 80
-        height: 386
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f11de27cd30e1ad50800000000000000
-      internalID: 6746920272717074719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tronco locura modo_5
       rect:
         serializedVersion: 2
-        x: 980
+        x: 870
         y: 11
-        width: 62
-        height: 380
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 205
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.48277462}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -301,33 +235,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: tronco locura modo_6
-      rect:
-        serializedVersion: 2
-        x: 988
-        y: 283
-        width: 79
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 849ab4dbddd4a2aa0800000000000000
-      internalID: -6185045523480991416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 27551c0dd27e02e43abc672bcf2bb764
     internalID: 0
     vertices: []
     indices: 
